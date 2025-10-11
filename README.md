@@ -13,11 +13,17 @@ Your own smart AI-powered voice assistant — built with Gemini AI, Web Speech A
 AI Virtual Assistant is a full-stack project that lets users:
 
 🗣 Talk to the assistant using voice input
+
 💬 Get intelligent AI replies via Gemini API
+
 🔐 Login / Signup securely with JWT authentication
+
 🖼 Upload & customize your assistant’s image and name
+
 🎨 Personalize branding and voice
+
 📱 Fully responsive UI built with Tailwind CSS
+
 
 ⚙️ Tech Stack
 
