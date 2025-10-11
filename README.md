@@ -23,25 +23,39 @@ AI Virtual Assistant is a full-stack project that lets users:
 
 Layer	Technologies
 
-Frontend	React, Tailwind CSS, Vite, Web Speech API
-Backend	Node.js, Express.js
-Database	MongoDB Atlas
-AI Model	Gemini API (Google Generative AI)
-Auth & Security	JWT, bcryptjs
-File Uploads	Multer, Cloudinary
-Hosting	Render (Frontend + Backend)
+Frontend : React, Tailwind CSS, Vite, Web Speech API
+
+Backend :	Node.js, Express.js
+
+Database	: MongoDB Atlas
+
+AI Model :	Gemini API (Google Generative AI)
+
+Auth & Security	: JWT, bcryptjs
+
+File Uploads :	Multer, Cloudinary
+
+Hosting :	Render (Frontend + Backend)
 
 🧩 Key Features
 
 ✅ Voice Input + Output: Talk and listen like JARVIS
+
 ✅ Gemini AI Integration: Smart, contextual conversations
+
 ✅ JWT Authentication: Secure login and signup
+
 ✅ Custom Assistant: Change image, name, and voice
+
 ✅ Responsive UI: Works on all screen sizes
+
 ✅ Cloud Uploads: Securely store images on Cloudinary
+
 ✅ MongoDB Atlas: Reliable and scalable cloud database
 
+
 🛠 Setup Instructions
+
 ⿡ Clone Repository
 
 git clone https://github.com/nehayadav25-ny/AI_virtualAssistant.git
