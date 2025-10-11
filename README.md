@@ -20,7 +20,9 @@ AI Virtual Assistant is a full-stack project that lets users:
 📱 Fully responsive UI built with Tailwind CSS
 
 ⚙️ Tech Stack
+
 Layer	Technologies
+
 Frontend	React, Tailwind CSS, Vite, Web Speech API
 Backend	Node.js, Express.js
 Database	MongoDB Atlas
@@ -28,6 +30,7 @@ AI Model	Gemini API (Google Generative AI)
 Auth & Security	JWT, bcryptjs
 File Uploads	Multer, Cloudinary
 Hosting	Render (Frontend + Backend)
+
 🧩 Key Features
 
 ✅ Voice Input + Output: Talk and listen like JARVIS
@@ -40,22 +43,33 @@ Hosting	Render (Frontend + Backend)
 
 🛠 Setup Instructions
 ⿡ Clone Repository
+
 git clone https://github.com/nehayadav25-ny/AI_virtualAssistant.git
+
 cd AI_virtualAssistant
 
 ⿢ Backend Setup
+
 cd backend
+
 npm install
+
 
 
 Create a .env file inside the backend folder:
 
 PORT=8000
+
 MONGODB_URL="your-mongodb-atlas-connection-string"
+
 JWT_SECRET="NEHAYADAV"
+
 GEMINI_API_URL="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=YOUR_GEMINI_API_KEY"
+
 CLOUDINARY_CLOUD_NAME=your_cloud_name
+
 CLOUDINARY_API_KEY=your_api_key
+
 CLOUDINARY_API_SECRET=your_api_secret
 
 
@@ -64,9 +78,13 @@ Run the backend:
 npm run dev
 
 ⿣ Frontend Setup
+
 cd ../frontend
+
 npm install
+
 npm run dev
+
 
 🧠 How It Works
 
